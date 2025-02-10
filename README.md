@@ -25,7 +25,6 @@
 ---
 
 ## 🎨 **Enhanced Look with Animated Banner**
-```md
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7A41D&center=true&vCenter=true&width=500&lines=🔥+JavaScript+%7C+TypeScript+%7C+Node.js+%7C+React.js+%7C+Next.js+🚀;Building+Scalable+Apps+with+Modern+Tech+💡" alt="Typing SVG" />
 </p>
