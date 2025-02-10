@@ -3,12 +3,33 @@
 💡 Exploring **cutting-edge technologies** and enhancing user experiences.  
 🎯 Always striving to write clean, efficient, and maintainable code.
 
-### 🛠 Tech Stack:
-![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-yellow?style=for-the-badge&logo=javascript)
-![TypeScript](https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=typescript)
-![Node.js](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js)
-![React](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react)
-![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js)
+## 🚀 Tech Stack  
+<p align="center">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg" alt="JavaScript" width="60" height="60"/>
+  </a>
+  <a href="https://www.typescriptlang.org/" target="_blank">
+    <img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" alt="TypeScript" width="60" height="60"/>
+  </a>
+  <a href="https://nodejs.org/" target="_blank">
+    <img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" alt="Node.js" width="60" height="60"/>
+  </a>
+  <a href="https://react.dev/" target="_blank">
+    <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="React.js" width="60" height="60"/>
+  </a>
+  <a href="https://nextjs.org/" target="_blank">
+    <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="60" height="60"/>
+  </a>
+</p>
+
+---
+
+## 🎨 **Enhanced Look with Animated Banner**
+```md
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7A41D&center=true&vCenter=true&width=500&lines=🔥+JavaScript+%7C+TypeScript+%7C+Node.js+%7C+React.js+%7C+Next.js+🚀;Building+Scalable+Apps+with+Modern+Tech+💡" alt="Typing SVG" />
+</p>
+
 
 ### 🛠 Tech Stack:
 <p align="center">
