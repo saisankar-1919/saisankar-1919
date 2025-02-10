@@ -20,7 +20,7 @@
     <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="React.js" width="70" height="70"/>
   </a>
   <a href="https://nextjs.org/" target="_blank">
-    <img src="[https://cdn.worldvectorlogo.com/logos/nextjs-2.svg](https://images.seeklogo.com/logo-png/32/1/next-js-logo-png_seeklogo-321806.png)" alt="Next.js" width="70" height="70" style="background:white; padding:10px; border-radius:10px;"/>
+    <img src="[[https://cdn.worldvectorlogo.com/logos/nextjs-2.svg](https://images.seeklogo.com/logo-png/32/1/next-js-logo-png_seeklogo-321806.png)](https://images.prismic.io/turing/652ec31afbd9a45bcec81965_Top_Features_in_Next_js_13_7f9a32190f.webp?auto=format%2Ccompress&fit=max&w=3840)" alt="Next.js" width="70" height="70" style="background:white; padding:10px; border-radius:10px;"/>
   </a>
 </p>  
 
@@ -33,9 +33,9 @@
 
 ---
 ## 📖 **Featured Articles**  
-🔹 [Hydroponic Farming: The Future of Sustainable Agriculture 🌱](https://medium.com/@your-medium-profile/hydroponic-farming-the-future-of-sustainable-agriculture-123456)  
 🔹 [Best Practices in TypeScript for Scalable Apps ⚡](https://medium.com/@your-medium-profile/best-practices-in-typescript-123456)  
 🔹 [How to Speed Up React Applications 🚀](https://medium.com/@your-medium-profile/speed-up-react-applications-123456)  
+🔹 [Hydroponic Farming: The Future of Sustainable Agriculture 🌱](https://medium.com/@your-medium-profile/hydroponic-farming-the-future-of-sustainable-agriculture-123456)  
 
 ---
 
