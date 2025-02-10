@@ -14,14 +14,11 @@
 ![Sai Sankar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)
 
-### 🔥 Recent Activity:
-![GitHub Streak](https://streak-stats.demolab.com/?user=your-github-username&theme=radical)
-
 ### 🎭 Fun Fact:  
-_"Code is like humor. When you have to explain it, it’s bad."_  
+_"Talk is cheap. Show me the code."_  
 ![Coding](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
 ### 🌍 Connect with Me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/your-profile/)
-[![Twitter](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter)](https://twitter.com/your-handle)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)]([https://www.linkedin.com/in/your-profile/](https://www.linkedin.com/in/saisankar-s-r-896a39150/))
+
 
