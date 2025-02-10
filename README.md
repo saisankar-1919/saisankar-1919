@@ -10,11 +10,15 @@
 ![React](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react)
 ![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js)
 
-![Profile Views](https://komarev.com/ghpvc/?username=saisankar-1919&color=brightgreen)
+### 🛠 Tech Stack:
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+</p>
 
-
-### 🔥 Recent Activity:
-![GitHub Streak](https://streak-stats.demolab.com/?user=your-github-username&theme=radical)
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal)
  
