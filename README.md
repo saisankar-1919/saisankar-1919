@@ -18,9 +18,10 @@
     <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="React.js" width="60" height="60"/>
   </a>
   <a href="https://nextjs.org/" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg" 
-       alt="Next.js" width="60" height="60" style="filter:invert(1);"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" 
+       alt="Next.js" width="60" height="60" style="background:white; padding:10px; border-radius:10px;"/>
 </a>
+
 
 </p>
 
